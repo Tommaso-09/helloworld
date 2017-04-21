@@ -1,3 +1,3 @@
-num = input("Inseisci un numero : ")
+num = input("Inserisci un numero : ")
  
 print "Il doppio del numero che hai inserito e' : ", num * 2
