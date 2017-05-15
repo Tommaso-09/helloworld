@@ -16,7 +16,7 @@ elif scelta == 2 :
     vsfera = 4. / 3. * math.pi * (raggio * raggio * raggio)
     print "Il volume della sfera di raggio ",raggio," e' : ",vsfera
 
-elif scelta > 2 or  scelta < 1 :
+else :
 
     print "La scelta effettuata non corrisponde a nessuna azione. "
 
